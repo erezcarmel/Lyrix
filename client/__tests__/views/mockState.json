@@ -1,0 +1,36 @@
+{
+  "form": {
+    "artist": "my artist",
+    "track": "my track"
+  },
+  "lyrics": {
+    "my artist": {
+      "my track": {
+        "track": {
+          "album": {
+            "image": [
+              { "#text": "img0.jpg" },
+              { "#text": "img1.jpg" },
+              { "#text": "img2.jpg" },
+              { "#text": "img3.jpg" }
+            ]
+          }
+        }
+      },
+      "albums": [
+        {
+          "name": "my album",
+          "image": [
+            { "#text": "img0.jpg" },
+            { "#text": "img1.jpg" },
+            { "#text": "img2.jpg" },
+            { "#text": "img3.jpg" }
+          ],
+          "tracks": {
+            "track": {}
+          }
+        }
+      ]
+    }
+  }
+}

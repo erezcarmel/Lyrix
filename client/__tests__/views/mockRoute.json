@@ -1,0 +1,7 @@
+{
+  "query": {
+    "artist": "my artist",
+    "album": "my album",
+    "track": "my track"
+  }
+}
